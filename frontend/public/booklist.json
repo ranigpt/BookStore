@@ -1,0 +1,122 @@
+[
+    {
+        "id":1,
+        "title": "Adventure Tales",
+        "description": "Embark on thrilling adventures through wild lands.",
+        "category": "free",
+        "price": 0,
+        "image": "https://img.freepik.com/free-vector/gradient-stack-books-illustration_23-2149327721.jpg?semt=ais_hybrid"
+    },
+    {
+        "id":2,
+        "title": "Mystery Unveiled",
+        "description": "Solve gripping mysteries with complex characters.",
+        "category": "paid",
+        "price": 5,
+        "image": "https://img.freepik.com/free-photo/stack-books-education-day_23-2150980065.jpg?semt=ais_hybrid"
+    },
+    {
+        "id":3,
+        "title": "Sports Legends",
+        "description": "Explore stories of the greatest athletes and their rise to fame.",
+        "category": "paid",
+        "price": 10,
+        "image": "https://img.freepik.com/free-photo/arrangement-with-books-pink-background_23-2148898317.jpg?semt=ais_hybrid"
+    },
+    {
+        "id":4,
+        "title": "Space Odyssey",
+        "description": "Journey through the stars in this sci-fi epic.",
+        "category": "free",
+        "price": 0,
+        "image": "https://img.freepik.com/free-photo/front-view-stacked-books-ladders-apple-with-copy-space-education-day_23-2149241047.jpg?semt=ais_hybrid"
+    },
+    {
+        "id":5,
+        "title": "History of the World",
+        "description": "A deep dive into the history of human civilization.",
+        "category": "paid",
+        "price": 12,
+        "image": "https://img.freepik.com/free-photo/stacked-books-different-colors-sizes_23-2147615130.jpg?ga=GA1.1.526280671.1729583098&semt=ais_hybrid"
+    },
+    {
+        "id":6,
+        "title": "Tech Revolution",
+        "description": "Explore the latest advancements in technology and innovation.",
+        "category": "free",
+        "price": 0,
+        "image": "https://img.freepik.com/free-photo/international-day-education-with-books_23-2150931146.jpg?ga=GA1.1.526280671.1729583098&semt=ais_hybrid"
+    },
+    {
+        "id":7,
+        "title": "Fantasy Realms",
+        "description": "A magical journey into a world of mythical creatures.",
+        "category": "paid",
+        "price": 8,
+        "image": "https://img.freepik.com/free-photo/creative-assortment-world-book-day_23-2148883759.jpg?ga=GA1.1.526280671.1729583098&semt=ais_hybrid"
+    },
+    {
+        "id":8,
+        "title": "Self-Improvement Guide",
+        "description": "Learn how to better yourself and achieve success.",
+        "category": "free",
+        "price": 0,
+        "image": "https://t4.ftcdn.net/jpg/00/87/84/94/240_F_87849463_CDRmGnQ4W5OYkm5i3jG19W63WBLgyFjA.jpg"
+    },
+    {
+        "id":9,
+        "title": "Travel Diaries",
+        "description": "Stories from travelers exploring the wonders of the world.",
+        "category": "paid",
+        "price": 9,
+        "image": "https://t4.ftcdn.net/jpg/00/85/75/43/240_F_85754332_EWxrodcYO3L71mZP3mCSNOJe5PKLG1rb.jpg"
+    },
+    {
+        "id":10,
+        "title": "Classic Literature",
+        "description": "A collection of timeless classics from famous authors.",
+        "category": "free",
+        "price": 0,
+        "image": "https://t4.ftcdn.net/jpg/00/64/70/87/240_F_64708760_lKzfravpAPyl9wrNrFnmHPuXJk74shL3.jpg"
+    },
+    {
+        "id":11,
+        "title": "Entrepreneurship 101",
+        "description": "Your guide to starting and growing a successful business.",
+        "category": "paid",
+        "price": 15,
+        "image": "https://t4.ftcdn.net/jpg/00/75/94/65/240_F_75946548_wXh8vJgVjSBsNGVGNRx8aKONIVUccpJh.jpg"
+    },
+    {
+        "id":12,
+        "title": "Health & Wellness",
+        "description": "Discover the secrets to a healthy mind and body.",
+        "category": "free",
+        "price": 0,
+        "image": "https://t4.ftcdn.net/jpg/00/82/74/45/240_F_82744544_W7WdfkKH0ymqxCJwdIowCvA7nvQDNDP8.jpg"
+    },
+    {
+        "id":13,
+        "title": "Art of Cooking",
+        "description": "Delicious recipes and tips for becoming a great cook.",
+        "category": "paid",
+        "price": 7,
+        "image": "https://t3.ftcdn.net/jpg/00/33/54/25/240_F_33542566_Qi1pZ5hnmRt68d9Ra6mKZc4tNsTFDgdy.jpg"
+    },
+    {
+        "id":14,
+        "title": "Photography Basics",
+        "description": "Learn the essentials of capturing beautiful photos.",
+        "category": "paid",
+        "price": 50,
+        "image": "https://t3.ftcdn.net/jpg/00/88/84/57/240_F_88845723_JfzEcXuZ6rSBAG6SYnMcfAlMfOgEJdWe.jpg"
+    },
+    {
+        "id":15,
+        "title": "Mindfulness & Meditation",
+        "description": "Techniques for relaxation and mental clarity.",
+        "category": "paid",
+        "price": 1000,
+        "image": "https://t4.ftcdn.net/jpg/00/85/35/47/240_F_85354728_S2a7OMgOANF50XhTZ5psCdfZCT9kPMuk.jpg"
+    }
+]
